@@ -1,5 +1,5 @@
 ### Hi there, I'm Vugar 👋
-- 💼 Software Engineer - more on [linkedin](www.linkedin.com/in/vugargasimov/)
+- 💼 Software Engineer - more on [linkedin](https://www.linkedin.com/in/vugargasimov/)
 <!--
 **codestoyevsky/codestoyevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
