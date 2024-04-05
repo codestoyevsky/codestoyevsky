@@ -1,5 +1,5 @@
 ### Hi there, I'm Vugar 👋
-- 💼 Engineering Manager at Avida TECH - more on [linkedin](www.linkedin.com/in/vugargasimov/)
+- 💼 Software Engineer at Linnworks - more on [linkedin](www.linkedin.com/in/vugargasimov/)
 <!--
 **codestoyevsky/codestoyevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
